@@ -28,7 +28,7 @@ As the Billboard streaming get introduced in 2007, the trends starts to drop, qu
 
 While this dataset came from the Data Is Plural archive, a product manager at Audiomack, Chris Dalla Riva, who is also a musician, compiled this data for his book [Uncharted Territory: What Numbers Tell Us about the Biggest Hit Songs and Ourselves](https://bio.site/uncharted_territory). He built this workbook by combining historical chart data and and deep audio metadata primarly from the Spotify Developer API. His intention for this was for investigative analysis on finding the different trends rather than commercial marketing of promoting to continously have songwriters that have short songs.
 
-![This is an image taken from the Bio Sites website showcasing Chris Dalla Riva's book.](uncharted.png)
+![This is an image taken from the Bio Sites website showcasing Chris Dalla Riva's book.](territory.png)
 
 (Source: Bio Sites) 
 
